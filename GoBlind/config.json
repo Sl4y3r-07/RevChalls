@@ -1,0 +1,9 @@
+{
+    "author":"Sl4y3r_07",
+    "challengeName":"GoBlind",
+    "challengeDescription" :"This binary hides its secrets deep within. Can you untangle the layers and reveal the secret? ",
+    "minPoints": 100,
+    "maxPoints": 500,
+    "category":"Rev",
+    "flag":"flag{g0_r0ut1n3s_4r3_c00l!$!}"
+}
